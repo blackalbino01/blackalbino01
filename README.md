@@ -9,10 +9,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Backend Development
 - 🤔 I’m looking for help with Teammates
 - 💬 Ask me about Tech
-- 📫 How to reach me: Twitter.com/HussainMAuwal , https://www.linkedin.com/in/hussainmauwal
-
+- 📫 How to reach me: https://www.twitter.com/HussainMAuwal , https://www.linkedin.com/in/hussainmauwal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Playing Chess
 
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=blackalbino01&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blackalbino01&langs_count=5&theme=tokyonight)]()
