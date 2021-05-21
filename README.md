@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 
-I am Passionate and Solution-driven Backend Developer adapt at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites logics and functionalities using PHP, MYSQL, RESTAPI and LARAVEL. Built products for desktop and mobile app users in 1 year, meeting highest standards for web logic,funtionality, database , best practices and speed. Designed and developed multiple APIs, third-party integrations and databases.
+I am Passionate and Solution-driven Full-Stack PHP Developer adapt at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites logics and functionalities using HTML,CSS,JAVASCRIPT,PHP, MYSQL, RESTAPI and LARAVEL. Built products for web and mobile app users in 1 year, meeting highest standards for web logic,funtionality, database , best practices and speed. Designed and developed multiple APIs, third-party integrations and databases.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MyPay
-- 🌱 I’m currently learning Software Development
-- 👯 I’m looking to collaborate on Backend Development
+- 🔭 I’m currently working on BaxiSwap
+- 🌱 I’m currently learning Blockchain Development
+- 👯 I’m looking to collaborate on Full-Stack Development
 - 🤔 I’m looking for help with Teammates
 - 💬 Ask me about Tech
-- 📫 How to reach me: https://www.twitter.com/HussainMAuwal , https://www.linkedin.com/in/hussainmauwal
+- 📫 How to reach me: [My Portfolio](https://hussainmauwal.com), [Twitter](https://www.twitter.com/HussainMAuwal) , [Linkedin](https://www.linkedin.com/in/hussainmauwal)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Playing Chess
+- ⚡ Fun fact: I love Playing Chess and Studying.
 
 
 
