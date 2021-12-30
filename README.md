@@ -1,8 +1,25 @@
 ### Hi there 👋
 
 
-I am Passionate and Solution-driven Full-Stack PHP Developer adapt at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites logics and functionalities using HTML,CSS,JAVASCRIPT,PHP, MYSQL, RESTAPI and LARAVEL. Built products for web and mobile app users in 1 year, meeting highest standards for web logic,funtionality, database , best practices and speed. Designed and developed multiple APIs, third-party integrations and databases.
-Here are some ideas to get you started:
+Hussaini is a Passionate and Solution-driven Full-Stack Web/Blockchain Developer adapt at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused web design/development and web logics/functionalities using HTML, CSS, JavaScript, AJAX, PHP, MYSQL, RESTAPI and LARAVEL. Built products for web and mobile app users in 2years, meeting highest standards for web design, development, logic, funtionality, database , best practices and speed. Designed and developed multiple APIs, third-party integrations and databases. Hussaini is Motivated to learn, grow, and excel in the IT field.
+
+He can help you excellently in the following areas;
+
+--writing and implementing efficient code
+--web development
+--RESTFUL APIs
+--Smart Contract Development
+--Smart Contract Unit testing/security analysis
+--Dapp development
+--CI/CD
+--backend engineering.
+--Web Design
+--provide virtual assistance
+--administrative support
+--customer service
+--diagnose and resolve technical issues remotely.
+--networking and SRE/devops engineering.
+Open to new ideas. Looking forward to working with you...
 
 - 🔭 I’m currently working on Dapps
 - 🌱 I’m currently learning Blockchain Development
