@@ -35,7 +35,6 @@ Hussaini is a Passionate and Solution-driven Web || Blockchain Developer who ada
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blackalbino01&langs_count=5&theme=tokyonight)]()
 
-![blackalbino01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blackalbino1&layout=compact&theme=blue-green)
 
 
 
