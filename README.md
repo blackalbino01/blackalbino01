@@ -17,7 +17,7 @@
 ### Hi there 👋
 
 
-Hussaini is a Passionate and Solution-driven Web || Blockchain Developer who adapts to contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused web design/development , web logics/functionalities, and Blockchain development using HTML, CSS, JavaScript, AJAX, PHP, MYSQL, RESTAPI, Laravel, Solidity, Truffle, Hardhat, Web3JS, Mocha, ChaiJS, and EthersJS. Built products for web and mobile app users in 3years, meeting the highest standards for web design, development, logic, funtionality, database , best practices, and speed. Designed and developed multiple APIs, third-party integrations, smart contracts, and databases. Hussaini is Motivated to learn, grow, and excel in the IT field.
+Hussaini is an Experienced Developer professional with strong leadership and relationship-building skills. Certified Blockchain Developer, developing Applications in Solidity, Analyzing and evaluating Dapps using Blockchain Technologies. Experience in developing Decentralized Blockchain applications using Ethereum, EVM compatible Networks, and BSC.
 
  
 
