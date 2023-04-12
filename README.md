@@ -29,7 +29,7 @@ Hussaini is an Experienced Developer professional with strong leadership and rel
 [![trophy](https://github-profile-trophy.vercel.app/?username=blackalbino01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=blackalbino01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hussain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackalbino01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=blackalbino01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Hussain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackalbino01&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackalbino01&theme=dark)](https://git.io/streak-stats)
