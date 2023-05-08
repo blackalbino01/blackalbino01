@@ -17,7 +17,10 @@
 ### Hi there 👋
 
 
-Hussaini is an Experienced Developer professional with strong leadership and relationship-building skills. Certified Blockchain Developer, developing Applications in Solidity, Analyzing and evaluating Dapps using Blockchain Technologies. Experience in developing Decentralized Blockchain applications using Ethereum, EVM compatible Networks, and BSC.
+Hussaini is an Experienced Developer professional with strong leadership and relationship-building skills. Certified Blockchain Developer with extensive experience in developing decentralized applications, smart contracts, and blockchain-based solutions. My expertise lies in blockchain frameworks such as Ethereum and EVM compatible Networks.
+
+Open to new ideas. Looking forward to working with you...
+Don't hesitate to send me a message to discuss your project and how we can work together. Looking forward to getting you online!
 
  
 
