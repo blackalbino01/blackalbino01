@@ -1,26 +1,10 @@
-<a href="https://www.instagram.com/hussainmauwal01/">
-  <img align="left" alt="Hussain's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.twitter.com/HussainMAuwal">
-  <img align="left" alt="Hussaini Muhammad Auwal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hussainmauwal/">
-  <img align="left" alt="Hussain's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=blackalbino01.blackalbino01)
-
-<br />
-
-
-
 ### Hi there 👋
 
 
-Hussaini is an Experienced Developer professional with strong leadership and relationship-building skills. Certified Blockchain Developer with extensive experience in developing decentralized applications, smart contracts, and blockchain-based solutions. My expertise lies in blockchain frameworks such as Ethereum and EVM compatible Networks.
+Hussaini is a Highly skilled and Certified Blockchain Developer with extensive experience in Ethereum and EVM (Ethereum Virtual Machine) platforms. Adept at designing, developing, and deploying robust blockchain solutions for diverse industries.Proficient in smart contract development, decentralized applications (DApps), and blockchain integration. Strong understanding of the Ethereum ecosystem, Solidity programming language, and web3.js. Proven track record of successfully delivering complex blockchain projects, optimizing performance, and ensuring security. Committed to staying updated with the latest advancements in blockchain technology and driving innovation in the field. Dedicated to leveraging blockchain to transform industries and create secure, transparent, and decentralized solutions. A collaborative team player with excellent problem-solving and communication skills.
 
 Open to new ideas. Looking forward to working with you...
-Don't hesitate to send me a message to discuss your project and how we can work together. Looking forward to getting you online!
+Don't hesitate to message me to discuss your project and how we can work together—looking forward to getting you online!
 
  
 
