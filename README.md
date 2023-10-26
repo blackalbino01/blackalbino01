@@ -18,8 +18,7 @@ Don't hesitate to message me to discuss your project and how we can work togethe
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackalbino01&layout=compact&theme=buefy&hide_border=true" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackalbino01&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=blackalbino01&theme=highcontrast&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
 
 
